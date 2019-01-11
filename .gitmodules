@@ -1,0 +1,4 @@
+[submodule "ch8"]
+	path = ch8
+	url = https://github.com/icshwi/ch8
+	ignore = all
